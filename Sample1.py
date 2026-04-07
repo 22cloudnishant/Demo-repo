@@ -1,4 +1,4 @@
 a=5
-b=c
+b=6
 sum=a+b
 Print ("The sum is" sum)
