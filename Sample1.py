@@ -1,4 +1,6 @@
-a=511
+
+a=512
 b=62
-sum=a+b
+c=51
+sum=a+b+c
 Print ("The sum is" sum)
